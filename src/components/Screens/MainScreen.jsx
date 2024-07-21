@@ -10,7 +10,7 @@ const MainScreen = () => {
   const [virtualKeyboard, setVirtualKeyboard] = useState(false);
   const [wordsPanel, setWordsPanel] = useState(false);
   const [key, setKey] = useState('');
-  const [level, setLevel] = useState(8);
+  const [level, setLevel] = useState(0);
   const [resetKey, setResetKey] = useState(false);
   const [completeLevel, setCompletedLevel] = useState(false);
 
