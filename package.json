@@ -1,5 +1,4 @@
 {
-  "homepage":"https://giffson.github.io/hangman-game",
   "name": "client",
   "version": "0.1.0",
   "private": true,
